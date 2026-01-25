@@ -10,7 +10,12 @@
 - 🆕 **([Simcline-V2](https://github.com/Berg0162/Simcline-V2))** The latest Simcline-V2 version adds support for **Zwift Virtual Shifting**, enabling Simcline actuation when Virtual Shifting is active.
 > **Important:** Zwift Virtual Shifting support requires a *modern* trainer running the firmware that explicitly supports the **Zwift Virtual Shifting** protocol.
 
-# 🔍 Featured Projects: Virtual Steering
+# 🔍 Featured Projects: 
+<details>
+<summary>Take a look!</summary>
+
+**Virtual Steering**
+  
 These projects allow users to explore a range of input devices for **steering control in virtual cycling worlds**. The emphasis is on **enhancing interactivity and user experience** through both **accessible** and **innovative** control methods.
 
 | HID Focus | Bluefruit Repository | Bluedroid/NimBLE Repository |
@@ -24,3 +29,4 @@ The above projects use one of the 3 following *server libraries* that each suppo
 🔹 **[BLE Steering Server](https://github.com/Berg0162/BLE-Steering-Server)** – For use with **Arduino-ESP32 core** (a.k.a Bluedroid)<br>
 🔹 **[NimBLE Steering Server](https://github.com/Berg0162/NimBLE-Steering-Server)** –  For use with **ESP-NimBLE v2.x**<br>
 🔹 **[Bluefruit Steering Server](https://github.com/Berg0162/Bluefruit-Steering-Server)** – For use with **Adafruit Bluefruit (Nordic's nRF52)**<br>
+</details>
