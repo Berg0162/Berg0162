@@ -12,9 +12,7 @@
 
 # 🔍 Featured Projects: 
 <details>
-<summary>Take a look!</summary>
-
-**Virtual Steering**
+<summary>Virtual Steering</summary>
   
 These projects allow users to explore a range of input devices for **steering control in virtual cycling worlds**. The emphasis is on **enhancing interactivity and user experience** through both **accessible** and **innovative** control methods.
 
