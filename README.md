@@ -12,15 +12,15 @@
 
 # 🔍 Featured Projects: 
 <details>
-<summary>Virtual Steering</summary>
-  
+<summary><b>Virtual Steering with various Human Interface Devices (HID)</b></summary>
+
 These projects allow users to explore a range of input devices for **steering control in virtual cycling worlds**. The emphasis is on **enhancing interactivity and user experience** through both **accessible** and **innovative** control methods.
 
-| HID Focus | Bluefruit Repository | Bluedroid/NimBLE Repository |
+| HID Focus | Bluefruit Stack | Bluedroid/NimBLE Stack |
 |-----------|-------------------|----------------------|
-| Buttons, Joysticks, Rotary Encoders | [`OVS-DiscreteHIDs-Bluefruit`](https://github.com/Berg0162/Open-Virtual-Steering-DiscreteHID-Bluefruit) | [`OVS-DiscreteHIDs`](https://github.com/Berg0162/Open-Virtual-Steering-DiscreteHID) | 
-| Turn & lean-based steering with MPU6050 | [`OVS-MotionIMU-Bluefruit`](https://github.com/Berg0162/Open-Virtual-Steering-MotionIMU-Bluefruit) | [`OVS-MotionIMU`](https://github.com/Berg0162/Open-Virtual-Steering-MotionIMU) |
-| Voice-activated steering with TinyML | ℹ️ | [`OVS-VoiceControl`](https://github.com/Berg0162/Open-Virtual-Steering-VoiceControl) | 
+| Buttons, Joysticks, Rotary Encoders | [`Discrete HID`](https://github.com/Berg0162/Open-Virtual-Steering-DiscreteHID-Bluefruit) | [`Discrete HID`](https://github.com/Berg0162/Open-Virtual-Steering-DiscreteHID) | 
+| Turn & lean-based steering with MPU6050 | [`Motion IMU`](https://github.com/Berg0162/Open-Virtual-Steering-MotionIMU-Bluefruit) | [`Motion IMU`](https://github.com/Berg0162/Open-Virtual-Steering-MotionIMU) |
+| Voice-activated steering with TinyML | ℹ️ | [`Voice Control`](https://github.com/Berg0162/Open-Virtual-Steering-VoiceControl) | 
 > ℹ️ The **VoiceControl** project is tightly coupled to the **XIAO ESP32S3 Sense**, which includes a built-in microphone and supports only **ESP BLE-Hosts**. A Bluefruit version is not applicable.
 
 The above projects use one of the 3 following *server libraries* that each support different Bluetooth stacks:<br>
