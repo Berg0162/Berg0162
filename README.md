@@ -1,5 +1,5 @@
 # Latest Releases
-## 🖥️ Trainer Direct Connect
+## 🖥️ Direct Connect (DirCon) for smart trainers:
 - 🆕 **([DirCon](https://github.com/Berg0162/DirCon))** ESP32 DirCon gateway library for BLE smart trainers over WiFi or Ethernet
 ## 🌀 Virtual Shifting (VS) support for:
 ### *Older* Wahoo KICKR
